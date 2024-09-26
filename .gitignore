@@ -1,0 +1,4 @@
+# Dotnet stuff
+/bin
+/obj
+*.sln
